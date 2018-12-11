@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url()
+  background: url('/img/bg.png') no-repeat center center fixed ;
 }
 
 code {
@@ -15,8 +15,8 @@ code {
 }
 
 .nav-color{
-  background-color:	#4DC1BE;
+  background-color:	purple;
 }
 .black{
-  color: black;
+  color: white;
 }

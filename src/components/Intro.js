@@ -19,12 +19,8 @@ const Intro = () => {
                         <a class="nav-link black" href="#">Contact</a>
                     </li>
                 </ul>
-
-
             </nav>
-
-        </div>
-
+        </div>     
     )
 }
 
